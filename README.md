@@ -1,5 +1,5 @@
 # cmd_tetris_cplusplus
-Tetris, simple, fun and now in command prompt.
+Tetris, simple, fun and now in command prompt
 
 A simple game running on command prompt.
 
